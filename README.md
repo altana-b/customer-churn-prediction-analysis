@@ -32,23 +32,23 @@ The data set includes information about:
 2. Initial inspection
 3. Data cleaning
 4. Exploratory Data Analysis (EDA)
-    1. Target variable
-    2. Numerical variables
-        1. Descriptive statistics, histograms, box plots
-        2. Outliers check
-        3. Relationship with churn
-    3. Categorical variables
-        1. Demographic variables
-        2. Services variables
-        3. Customer account information
-    4. Correlation analysis
+    - 4.1. Target variable
+    - 4.2. Numerical variables
+        - 4.2.1. Descriptive statistics, histograms, box plots
+        - 4.2.2. Outliers check
+        - 4.2.3. Relationship with churn
+    - 4.3. Categorical variables
+        - 4.3.1. Demographic variables
+        - 4.3.2. Services variables
+        - 4.3.3. Customer account information
+    - 4.4. Correlation analysis
 5. Data preprocessing
 6. Churn prediction analysis
-    1. Baseline - Logistic regression
-    2. Logistic Regression with CV tuning
-    3. Random Forest
-        1. Random Forest without TotalCharges variable
-    4. XGBoost
+    - 6.1. Baseline - Logistic regression
+    - 6.2. Logistic Regression with CV tuning
+    - 6.3. Random Forest
+        - 6.3.1. Random Forest without TotalCharges variable
+    - 6.4. XGBoost
 7. Results
 
 ## Models  
